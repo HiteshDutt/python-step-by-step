@@ -57,5 +57,6 @@ Content for Navigation
 
 |S.No|Link|
 |----|----|
-|1|[Hello World](FirstApplication/README.md)|
-|2|[Introduction to Functions](Function/README.md)|
+|1|[Hello World](Level0/FirstApplication/README.md)|
+|2|[Introduction to Functions](Level0/Functions/README.md)|
+|3|[Referencing Files Within Python](Level1/Referencing/README.md)|
