@@ -1,62 +1,55 @@
-# Learning Python for Beginners
+# 🐍 <span style="color:#4CAF50;">Learning Python for Beginners</span>
 
-## Pre-requisite to start
+Welcome to your Python learning journey! 🚀 Let’s get you set up and ready to code.
 
-1. Download and install git
+---
 
-~~~
-https://git-scm.com
-~~~
+## 🛠️ <span style="color:#2196F3;">Pre-requisites to Start</span>
 
-2. Download Python
+1. **Download & Install Git** 🧰  
+   🔗 [https://git-scm.com](https://git-scm.com)
 
-~~~
-https://www.python.org/downloads/
-~~~
+2. **Download Python** 🐍  
+   🔗 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-3. Download and install IDE (Integrated Development Environment), In this tutorial we will use Visual Studio Code
+3. **Download & Install an IDE** 💻  
+   In this tutorial, we’ll use **Visual Studio Code**:  
+   🔗 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-~~~
-https://code.visualstudio.com/download
-~~~
+---
 
-## Verify installation
+## ✅ <span style="color:#FF9800;">Verify Installation</span>
 
-Open Terminal / Command Prompt / Powershell / bash based on preference.
+Open **Terminal / Command Prompt / PowerShell / Bash** (whichever you prefer) and run the following checks:
 
-1. Check Git
-```
+---
+
+### 1️⃣ <span style="color:#9C27B0;">Check Git</span>
+```bash
 git -v
 ```
-if you see an output that give you information about version, you installation was successful
 
-2. Check python
-~~~
-python -version
-~~~
--or- 
-~~~
-python3 -version
-~~~
+### 2️⃣ <span style="color:#E91E63;">Check Python</span>
+```
+python --version
+```
+### 3️⃣ <span style="color:#795548;">Check Visual Studio Code</span>
 
-if either of the command is returning a valid number, your python installtion is successful
+After installation, Visual Studio Code should appear in your installed applications list. If you can open it, you’re all set! 🎯
 
-3. Visual Studio code
-
-Post installation visual studio code should available in installed application.
+___
 
 
-If everything is cool here, let us start learning python with a practical approach.
+🚀 <span style="color:#00BCD4;">Let’s Start Coding!</span>
+If everything above works fine, let’s dive into Python with a practical approach.
+💡 Note: Python files have the extension .py. Example: hello-world.py is a valid Python file name.
+📚 <span style="color:#FF5722;">Content for Navigation</span>
 
-*Python code file have an extension ".py". "hello-world.py" is possible name for a python file.*
+|#|Topic|
+|-|-----|
+|1|👋 [Hello World](Level0/FirstApplication/README.md)|
+|2|🛠️ [Introduction to Variables](Level0/Variables/README.md)|
+|3|📘 [Introduction to Functions](Level0/Functions/README.md)|
+|4|📂 [Referencing Files Within Python](Level1/Referencing/README.md)|
 
-please follow the Annexture below to explore and learn topic of you choice
-
-
-Content for Navigation
-
-|S.No|Link|
-|----|----|
-|1|[Hello World](Level0/FirstApplication/README.md)|
-|2|[Introduction to Functions](Level0/Functions/README.md)|
-|3|[Referencing Files Within Python](Level1/Referencing/README.md)|
+✨ Now you’re all set — let’s make Python your superpower! ⚡
