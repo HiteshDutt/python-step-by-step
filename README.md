@@ -30,7 +30,7 @@ git -v
 ```
 
 ### 2️⃣ <span style="color:#E91E63;">Check Python</span>
-```
+```bash
 python --version
 ```
 ### 3️⃣ <span style="color:#795548;">Check Visual Studio Code</span>
@@ -49,7 +49,8 @@ If everything above works fine, let’s dive into Python with a practical approa
 |-|-----|
 |1|👋 [Hello World](Level0/FirstApplication/README.md)|
 |2|🛠️ [Introduction to Variables](Level0/Variables/README.md)|
-|3|📘 [Introduction to Functions](Level0/Functions/README.md)|
-|4|📂 [Referencing Files Within Python](Level1/Referencing/README.md)|
+|3|📘 [Understanding Data Types](Level0/DataTypes/README.md)|
+|4|📘 [Introduction to Functions](Level0/Functions/README.md)|
+|5|📂 [Referencing Files Within Python](Level0/Referencing/README.md)|
 
 ✨ Now you’re all set — let’s make Python your superpower! ⚡
